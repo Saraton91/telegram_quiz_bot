@@ -1,0 +1,1622 @@
+[
+  {
+    "question": "Auditorlik hisoboti shu tekshiruvni o’tkazgan auditor(lar) tomonidan qanday imzolanishi lozim?",
+    "options": [
+      "betma-bet",
+      "faqatgina birincha va oxirgi betlari",
+      "faqatgina oxirgi beti",
+      "faqatgina birinchi beti"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditor auditorlik faoliyati davrida boshqa tadbirkorlik faoliyati bilan shug’ullanmasligi lozim. Qaysi talabga mos tushadi?",
+    "options": [
+      "Nashr qilinadigan axborot va reklama",
+      "Xodimlarning auditorlik tashkilotlari bilan munosabati",
+      "Professional xizmatga aloqador bo’lmagan sohada auditorning harakati",
+      "Auditorning kasbiy mahorati"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "O‘zbekiston Respublikasi hududida qo‘llash uchun auditning xalqaro standartlarini tan olish tartibini belgilash qaysi organning vakolatiga mansub?",
+    "options": [
+      "O‘zbekiston auditorlar palatasi",
+      "O‘zbekiston buxgalter va auditorlarning milliy assotsiatsiyasi",
+      "O‘zbekiston Respublikasi Vazirlar Mahkamasi",
+      "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Mohiyatiga ko’ra tekshirish … larni o’z ichiga oladi?",
+    "options": [
+      "batafsil testlash hamda tahliliy amal",
+      "inventarizatsiya",
+      "nazorat testlash",
+      "maxsus savolnoma"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "………………..bu tashkilotning bo‘lib o‘tgan hodisalardan yuzaga keladigan mavjud javobgarligi bo‘lib, uning so‘ndirilishi natijasida tashkilotdan o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi kutiladi. Fikr nima haqida ketmoqda?",
+    "options": [
+      "xarajat",
+      "aktiv",
+      "zarar",
+      "majburiyat"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Mol yetkazib beruvchilar va pudratchilarga to’lanadigan schyotlarning joriy qismi qaysi schyotda olib boriladi?",
+    "options": [
+      "6110",
+      "7010",
+      "6010",
+      "7110"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditor moliyaviy hisobotlar barcha muhim jihatlari bo‘yicha moliyaviy hisobotni taqdim qilish uchun qo‘laniladigan asosga muvofiq tayyorlangan degan xulosaga kelganida bildiriladigan fikr nima deb nomlanadi?",
+    "options": [
+      "Salbiy fikr",
+      "Stratifikatsiyalangan fikr",
+      "Modifikatsiyalanmagan fikr",
+      "Modifikatsiyalangan fikr"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Moliyaviy hisobotda buzib ko‘rsatish",
+    "options": [
+      "Buxgalterlarning bilimsizligi natijasida yuzaga kelishi mumkin",
+      "xato yoki firibgarlik natijasida yuzaga kelishi mumkin",
+      "xato natijasida yuzaga kelishi mumkin",
+      "firibgarlik natijasida yuzaga kelishi mumkin"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Audit qo’mitasi a’zoligiga nomzodlar qatoriga kimlarni kiritish mumkin?",
+    "options": [
+      "Ichki auditorlar",
+      "Ijrochi direktorlar",
+      "Ijrochi bo’lmagan direktorlar",
+      "Ekspertlar"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik tekshiruvida axborotlarga shubha koʼzi bilan qarashni va dalillarni tanqidiy baholashni nazarda tutadigan yondashuv?",
+    "options": [
+      "Professional mulohaza",
+      "Professional kompitetntlik",
+      "Professional skeptitsizm",
+      "to’gri javob ko’rsatilmagan"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Quyidagi holatlardan qaysi birida mijoz korxonada auditorlik tekshiruvini o‘tkazish taqiqlanadi?",
+    "options": [
+      "Auditorlik tashkiloti ketma-ket yetti yildan ko‘proq ayni bir mijoz korxonaning auditorlik tekshiruvini o‘tkazganda",
+      "buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshirayotgan shaxs bir vaqtning o‘zida mazkur auditorlik tashkilotining xodimi bo‘lmaganda",
+      "mazkur auditorlik tashkilotining kreditorlari, sug‘urtalovchilari bo‘lmagan mijoz korxonada",
+      "mazkur auditorlik tashkilotining kreditorlari, sug‘urtalovchilari bo‘lmagan xo‘jalik yurituvchi subyektlar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Nomoddiy aktivlar inventarizatsiyasini o‘tkazishda auditor qaysi standartga asoslanadi?",
+    "options": [
+      "BHMS №19",
+      "BHMS №5",
+      "BHMS №4",
+      "BHMS №1"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Ma’lumot yetarli bo‘lmagani uchun haqiqiy holatni aniqlay olmadik, degan fikrga kelinsa qaysi xulosa turi tanlanadi?",
+    "options": [
+      "Xulosa berishdan bosh tortish",
+      "Stratifikatsiyalangan auditorlik xulosasi",
+      "Modifikatsiyalanmagan auditorlik xulosasi",
+      "Izohlar bilan bildirilgan auditorlik xulosasi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "“Audit” o’zagi so’zi qaysi tildan olingan?",
+    "options": [
+      "nemis tili",
+      "lotin tili",
+      "yunon tili",
+      "ingliz tili"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Ustav kapitaliga ulush sifatida yoki obuna bo’lingan aktsiya qiymatini to’lash hisobiga olingan nomoddiy aktiv kirim qilindi. To’g’ri provodkani ko’rsating.",
+    "options": [
+      "Debet 0510-0590, Kredit 4610",
+      "Debet 0210-0290, Kredit 4610",
+      "Debet 0110-0190, Kredit 4610",
+      "Debet 0410-0490, Kredit 4610"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Sertifikat olish uchun talabgor oliy ma’lumotga hamda oliy ta’lim tashkilotini tamomlaganidan keyin oxirgi o‘n yildan kamida nechi yil buxgalteriya hisobi va audit sohasida yoki oliy ta’lim tashkilotida “Buxgalteriya hisobi” yoxud “Audit” fanidan dars berish sohasida ish stajiga ega bo‘lishi kerak?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlar mohiyatiga ko’ra tekshirish amalidan qachon foydalanadi?",
+    "options": [
+      "Agar auditor muhim buzib ko’rsatishlarning oldini olish yoki aniqlash va tuzatishda nazorat vositalarining samaradorligini baholashni xohlasa, mohiyatiga ko’ra tekshirishni amalga oshiradi.",
+      "Auditorlar muhim buzib ko’rsatishlar riskini aniqlash uchun auditni rejalashtirish jarayonida risklarni baholash tartib-qoidalaridan foydalanadilar.",
+      "Auditor moliyaviy hisobotdagi muhim buzib ko’rsatishlar bo’yicha bevosita dalil olmoqchi bo'lganda, mohiyatiga ko’ra tekshirishni qo’llaydi.",
+      "Muhimlik darajasini belgilash paytida mohiyatiga ko’ra tekshirishni qo’llaydi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Ustav fondidagi (ustav kapitalidagi) auditorlarga (auditorga) tegishli bo‘lgan ulush kamida nechi foizni tashkil etishi kerak ?",
+    "options": [
+      "0.51",
+      "0.5",
+      "0.52",
+      "0.49"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Tekshirilayotgin korxona xodimlariga «yaxshilik» qilish maqsadida auditorni nima qilishi mutlaqo mumkin emas?",
+    "options": [
+      "auditor aniqlangan xato yoki kamchiliklar to’g’risida korxona rahbariyatiga bildiradi va ularni tuzatish bo’yicha aniq tavsiyalar beradi",
+      "to’gri javob ko’rsatilmagan",
+      "auditorni shaxsan o’zi taklif va maslahat berishi",
+      "auditorni shaxsan o’zi dastlabki hujjatlar, hisob registrlari va buxgalteriya hisobotlaridagi xatolarni to’g’rilashi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "To’langan ijara haqi keyinga yil davomida umumiy summaning … qismi miqdorida har oyda xarajatga hisobdan o’chirishi lozim.",
+    "options": [
+      "2025-12-01 00:00:00",
+      "butun",
+      "6/12",
+      "3/12"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Kutilayotgan ishlar rejasida quyidagi ko’rsatkichlardan qaysi biri aks ettirilmaydi?",
+    "options": [
+      "auditorlik tekshiruvi uchun haq",
+      "bajariladigan ishlar hajmi",
+      "audit o’tkazish muddati va ishlarning davomiyligi",
+      "auditor qo’llaydigan usullar va amallar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "……………..-auditorlik tashkilotlarining auditorlik faoliyati sohasidagi vakolatli davlat organi rasmiy veb-saytiga joylashtirilgan ro‘yxati.",
+    "options": [
+      "Auditorlik tashkilotlarining reyestri",
+      "Auditorlik tashkiloti",
+      "Auditorlar reyestri",
+      "Audit qo‘mitasi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Audit jarayonida qaysi moliyaviy hisobot shakli korxona faoliyatining foyda yoki zararini tavsiflaydi?",
+    "options": [
+      "moliyaviy natijalar to’g’risidagi hisobot",
+      "tushuntirish xati",
+      "xususiy kapital to’g’risidagi hisobot",
+      "buxgalteriya balansiga ilova"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Korxonaning soliq deklaratsiyasi soliq inspektsiyasi talablariga muvofiq emasligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?",
+    "options": [
+      "moliyaviy hisobotlar auditi",
+      "majburiy audit",
+      "mos keluvchanlik auditi",
+      "operatsion audit"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Ishlab chiqarishga berilgan materiallarni hisobdan o’chirish yuzasidan mamlakatimizda qo’llanilmaydigan usulni aniqlang.",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "AVECO",
+      "har bir birligining tannarxi bo’yicha"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Audit ish hujjatlariga quyidagilardan qaysi biri kiradi?",
+    "options": [
+      "hamma javoblar to’g’ri.",
+      "auditni umumiy rejalash.",
+      "analitik va sintetik registrlar.",
+      "hujjatlarga qilingan xulosalar."
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlar nazorat testlashdan qachon foydalanadi?",
+    "options": [
+      "Agar auditor muhim buzib ko’rsatishlarning oldini olish yoki aniqlash va tuzatishda nazorat vositalarining samaradorligini baholashni xohlasa, nazorat vositalarini testlashni amalga oshiradi.",
+      "Auditor moliyaviy hisobotdagi muhim buzib ko’rsatishlar bo’yicha bevosita dalil olmoqchi bo'lganda, mohiyatiga ko’ra tekshirishni qo’llaydi.",
+      "Muhimlik darajasini belgilash paytida nazorat testlashni qo’llaydi",
+      "Auditorlar muhim buzib ko’rsatishlar riskini aniqlash uchun auditni rejalashtirish jarayonida risklarni baholash tartib-qoidalaridan foydalanadilar."
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Firibgarlikni rag‘batlantiruvchi yoki sodir etishga majburlovchi yohud firibgarlik qilish imkoniyatini yuzaga keltiruvchi voqealar va sharoitlar",
+    "options": [
+      "Firibgarlik riski omillari",
+      "Nazorat riski omillari",
+      "Ajratib bo’lmaydigan risk omillari",
+      "Auditorlik riski omillari"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlik tashkilotlari qanday turidagi auditorlik  xizmatlarini ko‘rsatadi?",
+    "options": [
+      "Auditorlik tekshiruvlari va turdosh xizmatlari",
+      "Ixtiyoriy va majburiy auditorlik tekshiruvlari",
+      "Faqat auditorlik tekshiruvlari",
+      "To’g’ri javob berilmagan"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Quyidagilardan qaysi biri auditor tomonidan korxona faoliyatini o’rganish uchun maqsad hisoblanmaydi?",
+    "options": [
+      "audit o’tkazishni sifatini oshirish",
+      "audit o’tkazishni osonlashtirish",
+      "xato-kamchiliklar bo’yicha tegishli organlarga zudlik bilan murojaat qilish",
+      "tekshiriladigan korxona iqtisodini yaxshilashga qaratilgan amaliy maslahat yordami ko’rsatish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Agar nomoddiy aktiv kelgusida korxonaga iqtisodiy naf keltirmasa, nomoddiy aktiv…?",
+    "options": [
+      "kelgusi davr daromadlari sifatida aks ettiriladi",
+      "kelgusi davr xarajatlari sifatida aks ettiriladi",
+      "xarajat sifatida aks ettiriladi",
+      "aktiv sifatida aks ettiriladi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Xo’jalik yurituvchi sub’ektlarning umumxo’jalik faoliyatidan olingan foyda yoki ko’rilgan zararlarni hisoblab chiqarishda hisobga olinadigan, uning moliyaviy faoliyatiga doir xarajatlar guruhiga kirmaydigan xarajatlarni toping.",
+    "options": [
+      "sotish xarajatlari",
+      "foizlar bo’yicha sarflar",
+      "moliyaviy faoliyatga doir boshqa xarajatlar",
+      "xorijiy valyuta muomalalari bo’yicha salbiy kurs tafovutlari"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Moliyaviy hisobotlarni e’lon qilish sanasi…?",
+    "options": [
+      "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) bilan aktsiyadorlar tanishishi uchun imkoniyat yuzaga kelgan sana",
+      "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) imzolangan sana",
+      "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) bilan barcha foydanaluvchilar tanishishi uchun imkoniyat yuzaga kelgan sana",
+      "Audit tekshiruvidan o‘tkazilgan moliyaviy hisobotlar va auditorlik hisoboti (xulosasi) bilan korxona raxbariyati tanishish imkoniyat yuzaga kelgan sana"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Quyidagilarning qaysi biri “Auditorlik faoliyati to‘g‘risida”gi Qonun talablarini bir marta qo‘pol tarzda buzish deb e’tirof etiladi?",
+    "options": [
+      "auditor faqat bir auditorlik tashkilotining xodimi ekanligi fakti aniqlanganda",
+      "auditorning huquqni muhofaza qiluvchi organlarning topshiriqlariga ko‘ra har xil tekshiruvlarni o‘tkazish uchun auditorlik tashkiloti va mazkur organlar o‘rtasida shartnoma asosida mutaxassis sifatida ishtirok etganligi;",
+      "Auditorning har yilgi malaka oshirish kurslaridan o‘tmaganligi",
+      "Barcha javoblar to‘g‘ri"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Bekor qilingan ishlab chiqarish buyurtmalari bo’yicha yo’qotishlar qaysi turdagi xarajatlarga kiritiladi?",
+    "options": [
+      "boshqa operatsion xarajatlar",
+      "ma’muriy xarajatlari",
+      "sotish xarajatlari",
+      "moliyaviy xarajatlar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlik tekshiruvi obyekti hisoblangan umumiy maqsadli asosga muvofiq tayyorlangan moliyaviy hisobotlarda nima aks etmaydi?",
+    "options": [
+      "Pul oqimlari",
+      "Ishsizlik darajasi",
+      "Moliyaviy holat",
+      "Moliyaviy natijalar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik amali nima?",
+    "options": [
+      "Bu mijoz korxonani inventarizatsiya qilishdir.",
+      "Bu mijoz korxonaning bir hujjatlarini boshqalar bilan solishtirishdir.",
+      "Bu muayyan audit uchastkasida dalillarni olish uchun auditor tomonidan amalga oshiriladigan ishlarning ma’lum tartibda va ketma-ketligidir.",
+      "Bu uchinchi shaxsning og‘zaki bildirishlarini yig‘ishdir."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Vakolatli organ tomonidan auditorlik tashkiloti ishi sifatining tashqi nazoratini o‘tkazishda quyidagilardan qaysi biriga aralashishga yo‘l qo‘yilmaydi",
+    "options": [
+      "Auditorlik tashkilotining Qonun talablarini buzadigan harakatlari (harakatsizligi) ustidan jismoniy yoki yuridik shaxslarning murojaatlari mavjudligini o‘rganishga",
+      "Auditorlik tashkilotining moliyaviy-xo‘jalik faoliyatiga aralashishga",
+      "Tavakkalchilik darajasini baholashga",
+      "Auditorlik tashkiloti tomonidan AXS talablariga rioya etilishini baholashga"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tekshiruvi qanday shakllarda o’tkaziladi?",
+    "options": [
+      "nazorat, taftish va ixtiyoriy audit shakllari",
+      "majburiy, tashabbus tarzidagi audit shakllari",
+      "majburiy, ixtiyoriy va taftish shakllari",
+      "majburiy audit shakllar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Buxgalteriya hisobi va audit sohasidagi xalqaro tashkilotda akkreditatsiyadan o‘tgan o‘quv markazlari ………….",
+    "options": [
+      "Auditorlarni sertifikatlash imtihonlarini tashkil etishga ko‘maklashadi",
+      "Auditorlarning malakasini oshirish kurslarini tashkil etadi",
+      "Auditorlarni sertifikatlash dasturlarini ishlab chiqhishga ko‘maklashadi",
+      "Auditorlarni qayta tayyorlash kurslarini tashkil etadi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Kamchiliklar audit o’tkazish chog’ida buyurtmachi korxona tomonidan tuzatilmasa, auditor tomonidan qanday chora ko’rilishi mumkin?",
+    "options": [
+      "javobgarlikka tortiladi",
+      "moliyaviy hisobotning ishonchliligini tasdiqlash mumkin emasligi to’g’risida auditorlik tekshiruvining xulosasida yoziladi",
+      "buxgalterlik (moliyaviy) hisobotning ishonchliligini tasdiqlash mumkin emasligi to’g’risida auditorlik tekshiruvining xulosasida yozilmaydi",
+      "to’gri javob ko’rsatilmagan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Muhim buzib ko‘rsatishlar riski komponentlari to‘g‘ri ko‘rastilgan javobni toping?",
+    "options": [
+      "aniqlanmaslik riski va biznes risk",
+      "Ajratib boʼlmaslik riski va nazorat vositalari riski",
+      "Nazorat vositalari riski va tadbirkotlik riski",
+      "Ajratib boʼlmaslik riski va aniqlanmaslik riski"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tekshiruvi ko’rsatkichlar samaradorligi va unumdorligi bo’yicha o’tkazilishi auditning qaysi turida ko’rib o’tiladi?",
+    "options": [
+      "operatsion audit",
+      "moliyaviy hisobotlar auditi",
+      "majburiy audit",
+      "mos keluvchanlik auditi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Xalqaro standartlarga binoan auditorlik xulosalarining qanday turlari mavjud?",
+    "options": [
+      "xulosa berishdan bosh tortish",
+      "salbiy auditorlik xulosasi",
+      "hamma javoblar to’g’ri",
+      "ijobiy auditorlik xulosasi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlarning respublika jamoat birlashmalari-bu?",
+    "options": [
+      "O‘zbekiston Respublikasi Moliya vazirligi auditorlik faoliyati sohasidagi vakolatli davlat organidir",
+      "To’g’ri javob berilmagan",
+      "Auditorlarni birlashtiradigan nodavlat notijorat tashkilotlari",
+      "Auditorlarni birlashtiradigan xo’jalik yurituvchi subyektlar"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik tekshiruvi natijasida ishlab chiqarish xodimlarini va ishlab chiqarish aktivlarini majburiy va ixtiyoriy sug’urta qilish xarajatlari boshqa operatsion xarajatlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi xarajat qaysi qatorga qo’shilishi kerak?",
+    "options": [
+      "ishlab chiqarish bilan bog’liq moddiy xarajatlar",
+      "ishlab chiqarish xususiyatiga ega bo’lgan mehnatga haq to’lash xarajatlari;",
+      "ishlab chiqarish tusidagi boshqa xarajatlar",
+      "sotish xarajatlari"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditor auditorning malaka sertifikatini olgan yildan keyingi yildan e’tiboran nechi yilda auditorlarning malaka oshirish kurslaridan o‘tishi lozim?",
+    "options": [
+      "Har 2 yili",
+      "Har 3 yili",
+      "Har 1 yili",
+      "Har 5 yili"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik faoliyatini amalga oshirish uchun Auditorlik tashkilotlari Reyestrini yuritishga vakolatli organni ko’sating?",
+    "options": [
+      "O’zbekiston buxgalterlar va auditorlar milliy assotsiatsiyasi",
+      "Iqtisodiyot va moliya vazirligi",
+      "Iqtisodiyot vazirligi.",
+      "Auditorlar palatasi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tashkiloti ketma-ket nechi yildan ko‘proq ayni bir xo‘jalik yurituvchi subyektning auditorlik tekshiruvini o‘tkazishga haqli emas?",
+    "options": [
+      "6 yil",
+      "3 yil",
+      "5 yil",
+      "7 yil"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Kompaniyaning moliyaviy hisoboti ishonchli va haqqoniy taqdim etilganligi aniqlandi. Ushbu jarayon auditning qaysi shakli orqali aniqlanadi?",
+    "options": [
+      "ichki audit",
+      "mos keluvchanlik auditi",
+      "operatsion audit",
+      "moliyaviy hisobot auditi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Hisob va hisobot ma’lumotlarining o’zaro tengligi aniqlaganidan so’ng, auditor mol etkazib beruvchilar va pudratchilar bilan hisob-kitoblar qoldig’ining haqqoniyligini baholashi kerak. Shu maqsadda u quyidagilardan qaysi birini tekshirmaydi?",
+    "options": [
+      "analitik hisob registrlarida ko’rsatilgan shartnomalar va dastlabki hujjatlarning haqiqatda mavjudligi (tanlab tekshiriladi)",
+      "dastlabki hujjatlar va hisob registrlaridagi ma’lumotlarning mosligi (tanlab tekshiriladi)",
+      "moliyaviy natijalarni tekshirish",
+      "analitik hisob registrlarida dastlabki hujjatlar va shartnomalarning raqamlari hamda tuzilgan sanalari to’g’risidagi ma’lumotlar mavjudligi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Asosiy vositalar bo’yicha hisoblangan amortizatsiya qanday hisobdan chiqariladi?",
+    "options": [
+      "majburiyatlar hisobiga",
+      "debitorlik qarzlari hisobiga",
+      "qarz mablag’lari hisobiga",
+      "Asosiy ishlab chiqarish yoki davr xarajati hisobiga"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditda tekshiruvning mamlakat qonunlariga to’g’ri kelish-kelmasligi auditning qaysi turida ko’rib o’tiladi?",
+    "options": [
+      "Majburiy audit",
+      "Operatsion audit",
+      "Moliyaviy hisobotlar auditi",
+      "Mos keluvchanlik auditi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik tashkilotlari renkingini o‘tkazishning yagona tartibini belgilovchi organ bu – ……….",
+    "options": [
+      "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi",
+      "Auditorlarning respublika jamoat birlashmalari",
+      "O‘zbekiston Respublikasi Vazirlar Mahkamasi",
+      "Barcha javob to‘g‘ri"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik dalillarini to’plash vaqtida paydo bo’ladigan vaziyatda firibgarlik va xatolarni ko’paytiradigan omillarga quyidagilardan qaysi biri kiradi?",
+    "options": [
+      "Yuristlarni va auditorlarni tez-tez almashinishi",
+      "Bosh buxgalter, buxgalterlar va iqtisodchilarni tez-tez o’zgarib, almashinib turishi",
+      "Ko’pturkumli korporativ tizim mavjudligi",
+      "Buxgalteriya yozuvlari va uchinchi tomonlar ma’lumotlari o’rtasida katta farq mavjudligi va ularning auditorlik isbotlariga qarama-qarshiligi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Tashabbus tarzidagi auditorlik tekshiruvining buyurtmachisi bo‘lishi mumkin shaxslar to‘g‘ri keltirilgan javobni toping?",
+    "options": [
+      "Tijorat banki tashabbusi",
+      "Ustav fondida (ustav kapitalida) kamida besh foiz miqdoridagi ulushga ega bo‘lgan ishtirokchilar va aksiyadorlar tashabbusi",
+      "Barcha javoblar to‘g‘ri",
+      "Sug‘urtalovhi sug‘urta tashkiloti tashabbusi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Noaniq bajarish muddatiga yoki noaniq qiymatga ega bo‘lgan majburiyat nima deb yuritiladi?",
+    "options": [
+      "javobgarlik",
+      "shartli majburiyat",
+      "baholangan majburiyat",
+      "shartli aktiv"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "O’zbekiston Respublikasi Fuqarolik Kodeksi va shartnoma qonunchiligiga ataylab rioya qilinmasdan tuzilgan shartnomalar va ular asosida amalga oshirilgan muomalalar … deb topiladi.",
+    "options": [
+      "shartli ravishda haqiqiy emas",
+      "haqiqiy emas",
+      "haqiqiy",
+      "shartli ravishda haqiqiy"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik xizmatlari buyurtmachisining talabiga ko‘ra auditor (auditorlar) sertifikatini ko‘rsatish bu –",
+    "options": [
+      "Auditorlik tashkilotining majburiyati",
+      "Auditorlik tashkilotining axloqiy tamoyili",
+      "Auditorlik tashkilotining huquqi",
+      "Auditorlik tashkilotining javobgarligi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditni rejalashtirish qaysi standartda ko’rib chiqiladi?",
+    "options": [
+      "Auditning umumiy standarti",
+      "Auditning ishchi standarti",
+      "Hisobot standarti",
+      "Maxsus standart"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Bila turib soxta auditorlik xulosasini tuzish qanday oqibatlarga olib kelishi mumkin?",
+    "options": [
+      "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarmaslikka, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatmaslikka, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish",
+      "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarishga, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatishga, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish",
+      "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarmaslikka, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatishga, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish",
+      "auditorlik tashkilotini Auditorlik tashkilotlarining reyestridan chiqarishga, auditorlik tashkiloti rahbari sertifikatining va auditorlik tekshiruvida ishtirok etgan auditorlar sertifikatlarining amal qilishini tugatmaslikka, shuningdek aybdor shaxslarni qonunda belgilangan tartibda javobgarlikka tortish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Moliyaviy hisobotlarni tasdiqlash sanasi…?",
+    "options": [
+      "Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda tegishli vakolatlarga ega bo‘lgan shaxslar ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana",
+      "Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda yordamchi buxgalter tomonidan ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana",
+      "Moliyaviy axborotlar aks etadigan hujjatlarni tayyorlanganligini hamda tegishli vakolatlarga ega bo‘lgan shaxslar ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana",
+      "Moliyaviy hisobotni va izohlar bilan birgalikda tayyorlanganligini hamda tashkilot raxbari tomonidan ushbu moliyaviy hisobotlar uchun javobgarlikni o‘z zimmalariga olishlarini tasdiqlaganligini bildiruvchi sana"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Firibgarlik bu-",
+    "options": [
+      "Kuzatuv kengashi yuklatilgan shaxslar bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan xaqqoniy va qonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat",
+      "Rahbariyat, boshqaruv yuklatilgan shaxslar, xodimlar yoki uchinchi shaxslar orasidan bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan noxaqqoniy va noqonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat",
+      "Rahbariyat, boshqaruv yuklatilgan shaxslar, xodimlar yoki uchinchi shaxslar orasidan bitta yoki bir nechta shaxslar tomonidan bilmasdan qilinadigan xarakat",
+      "Kuzatuv kengashi yuklatilgan shaxslar bitta yoki bir nechta shaxslar tomonidan aldash yo‘li bilan noxaqqoniy va noqonuniy manfaat ko‘rish maqsadida ataylab qilinadigan xarakat"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "O`zbekistonda lizing munosabatlari qaysi hujjat bilan tartibga solinadi?",
+    "options": [
+      "5-son «Asosiy vositalar» nomli BHMS;",
+      "14-son «Xususiy kapital to`g`risidagi hisobot» nomli BHMS;",
+      "6-son «Ijara hisobi» nomli BHMS;",
+      "22-son «Chet el valutasida ifodalangan aktivlar va majburiyatlarning hisobi» nomli BHMS;"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "710-son AXSga binoan qiyosiy axborot deganda nima tushuniladi?",
+    "options": [
+      "O‘tgan davr uchun summalar va boshqa  ochib beriladigan ma’lumotlar joriy davr moliyaviy hisobotlari bilan solishtirish maqsadida keltiriladigan,  audit tekshiruvidan o‘tkazilgan bo‘lsa, auditorlik fikrida aytib o‘tiladigan qiyosiy axborot",
+      "Oldingi davr summalari va boshqa  ochib beriladigan ma’lumotlari joriy davr moliyaviy hisobotining ajralmas qismi sifatida kiritilgan hamda joriy davr summalari va boshqa ochib beriladigan ma’lumotlari bilan birgalikda ko‘rib chiqish maqsadida keltirilgan qiyosiy ma’lumotlar",
+      "Moliyaviy hisobotni taqdim etish uchun qo‘llaniladigan asosga muvofiq bir yoki undan ortiq o‘tgan davrlar uchun moliyaviy hisobotlarga kiritilgan summalar va ochib beriladigan ma’lumotlar",
+      "O‘tgan davr uchun summalar va boshqa  ochib beriladigan ma’lumotlar joriy davr moliyaviy hisobotlari bilan solishtirish maqsadida keltiriladigan qiyosiy axborot"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik tekshiruvi natijasida mol-mulkni uzoq muddatli ijaraga berishdan olingan daromadlar operatsion daromadlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi daromad qaysi qatorga qo’shilishi kerak?",
+    "options": [
+      "favqulodda daromadlar",
+      "moliyaviy faoliyatdan olinadigan daromadlar",
+      "mahsulot sotishdan olingan sof tushum",
+      "asosiy ishlab chiqarish faoliyatidan olinadigan boshqa daromadlar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Korxonalarda ishlab chiqarish xarajatlarini tartibga soluvchi asosiy hujjat – bu ?",
+    "options": [
+      "Auditning Xalqaro Standartlari",
+      "Moliyaviy Hisobotning Xalqaro Standartlari",
+      "“Mahsulot(ish,xizmat)larni ishlab chiqarish va realizatsiya xarajatlarining tarkibi hamda moliyaviy natijalarni shakllantirish tartibi to’g’risida”gi Nizom",
+      "Auditorlik dalillar"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Tannarx soliqqa tortish maqsadlarida hisob elementi sifatida esa soliqqa tortiladigan bazani … miqdor bo’lib hisoblanadi.",
+    "options": [
+      "to’g’ri javob yo’q",
+      "kamaytiradigan",
+      "oshiradigan",
+      "ko’paytiradigan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Moliyaviy hisobotlar ularni haqqoniy taqdim etish asosiga muvofiq tayyorlangan, biroq moliyaviy hisobotlarni taqdim etishning qo‘llaniladigan asosiga muvofiq haqqoniy taqdim etilmaganida qaysi xulosa tuziladi?",
+    "options": [
+      "Xulosa berishdan bosh tortish",
+      "Ijobiy fikr bildirilgan auditorlik xulosasi",
+      "Izohlar bilan bildirilgan auditorlik xulosasi",
+      "Salbiy fikr bildirilgan auditorlik xulosasi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Korporativ boshqaruvda ichki audit xizmati ishini tahlil va nazorat qilish qaysi qo’mitaning vazifasi hisoblanadi?",
+    "options": [
+      "Risklar bo’yicha qo’mita",
+      "Rag’batlantirish qo’mitasi",
+      "Xodimlar bo’yicha qo’mitasi",
+      "Audit qo’mitasi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Xalqaro buxgalterlar federatsiyasining Xalqaro odob-axloq standartlari bo‘yicha kengashi tomonidan ………………… e’lon qilinadi",
+    "options": [
+      "Ishonchni ta’minlaydigan topshiriqlarning xalqaro standartlari",
+      "Auditorlarning axloq kodeksi",
+      "Professional buxgalterning odob-axloq kodeksi",
+      "Auditning xalqaro standartlari"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Moliyaviy hisobotning ishonchliligi va buxgalteriya hisobi to‘g‘risidagi qonunchilik talablariga muvofiqligi to‘g‘risida auditorlik tashkilotining yozma shaklda ifodalangan fikrini o‘z ichiga olgan hujjat bu –  ….?",
+    "options": [
+      "Auditning xalqaro qoidalari",
+      "Hisobot",
+      "Dalolatnoma",
+      "Auditorlik xulosasi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik tashkiloti moliyaviy hisobot to’g’risida fikr bildirish uchun yetarli dalillar ololmayotganda qanday yo’l tutish lozim?",
+    "options": [
+      "Auditorlik xulosasini tuzishdan bosh tortishi lozim",
+      "Mijoz korxona raxbari va bosh buxgalteri bilan dalolatnoma tuzish lozim.",
+      "Mijoz korxona raxbari va bosh auditor birgalikda dalolatnoma tuzish lozim.",
+      "Mijoz korxona raxbari va bosh buxgalterini jinoiy javobgalikga tortish lozim"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorning malaka sertifikati kim tomonidan beriladi?",
+    "options": [
+      "Davlat aktivlarini boshqarish agentligi",
+      "Auditorlarning respublika jamoat birlashmalari tomonidan",
+      "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi tomonidan",
+      "O‘zbekiston Respublikasi Markaziy banki tomonidan"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Quyidagilardan qaysi biri auditorlik tekshiruvida ta’minot jarayoniga xos bo’lgan ichki nazorat vositalarining samaradorligini baholash bosqichi hisoblanmaydi?",
+    "options": [
+      "moliyaviy natijalarni tekshirish",
+      "ichki nazorat vositalarini dastlabki o’rganish",
+      "ichki nazorat vositalarini testdan o’tkazishni amalga oshirish imkoniyatini aniqlash uchun ulardan har birining ishonchliligini dastlabki baholash",
+      "testdan o’tkazish natijalari asosida ichki nazorat vositalarining ishonchliligini yakuniy baholash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlik dalillarining mosligi",
+    "options": [
+      "Auditorlik dalillarining mutlaq o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "Auditorlik dalillarining nisbiy o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "Auditorlik dalillarining sifat o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "Auditorlik dalillarining miqdoriy o‘lchami, ya’ni auditorning fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "“Buxgalteriya hisobi” va “Audit” ixtisosliklari bo‘yicha magistr diplomiga ega bo‘lgan sertifikat olish uchun talabgor uchun auditorlik tashkilotida kamida nechi yillik ish staji talab qilinadi?",
+    "options": [
+      "1 yillik",
+      "9 yillik",
+      "6 yillik",
+      "2 yillik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Moliyaviy hisobot auditining asosiy maqsadi nimadan iborat",
+    "options": [
+      "Auditorlik fikri uchun asos bo‘lgan hulosalarga erishishda ekspert tomonidan foydalanilgan ma’lumot",
+      "Auditorlik dalillarining sifat o‘lchovi, ya’ni auditorlik fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda dalillarning o‘rinliligi va ishonchliligi",
+      "moliyaviy hisobotlarning to‘g‘riligini tekshirish",
+      "Auditorlik dalillarining sifat o‘lchovi, ya’ni auditorlik fikri uchun asos bo‘ladigan xulosalar tasdig‘ini ta’minlashda foydalanilgan ma’lumotlar"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik tashkiloti ishi sifatining tashqi nazorati ……..",
+    "options": [
+      "Har chorak yakunida o‘tkaziladi",
+      "Moliya yili yakunida o‘tkaziladi",
+      "Hisobot yilidan keyin 15 iyunga qadar o‘tkaziladi",
+      "Tavakkalchilik-tahlili natijasida bo‘yicha o‘tkaziladi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Uzoq muddatli aktivlarni qayta baholashda hosil bo‘ladigan inflyatsiya zaxiralarini, qonunchilikda va ta’sis hujjatlarida nazarda tutilgan miqdorlarda sof foydadan ajratmalarni, shuningdek tekinga olingan mol-mulkning qiymatini aks ettiradi. Ushbu ta’rif qaysi tushunchaga tegishli?",
+    "options": [
+      "qo‘shilgan kapital",
+      "taqsimlanmagan foyda",
+      "zaxira kapitali",
+      "ustav kapitali"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "«Buxgalteriya hisobi to’g’risida»gi qonunning 21-moddasiga muvofiq ichki nazorat tizimini tashkil etish uchun kim javobgardir?",
+    "options": [
+      "Xo’jalik yurituvchi subyekt rahbari",
+      "Bosh hisobchi",
+      "Moliyaviy deriktor",
+      "Auditor"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Omborxona kirim hujjatlarini mol etkazib beruvchilarning kuzatib boruvchi hujjatlari yoki materiallarni chakana savdoda naqd pulga sotib olish hujjatlari bilan solishtirish omborxonada sodir bo’lgan kirim muomalalarini tekshirishning … usuli hisoblanadi.",
+    "options": [
+      "farqli",
+      "tahliliy",
+      "son (qiymat) miqdor",
+      "maxsus"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Asosiy vositalar auditining aniq maqsadi nimalardan iborat?",
+    "options": [
+      "asosiy vositalar xarakati to’g’risidagi hisobotni tekshirishdan iborat",
+      "ularni hisob kitob schetida to’g’ri aks ettirilganligini o’rganish",
+      "asosiy vositalar tarkibining to’g’ri shakllantirilishi, ular xarakatini hisobga olishning to’liqligi va realligini tekshirilishidan iborat",
+      "mol etkazib beruvchilan bilan aloqasini o’rganish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik xulosasi qachon bila turib soxta tuzilgan deb topiladi?",
+    "options": [
+      "tekshiruv jarayonida",
+      "sudning qonuniy kuchga kirgan qaroriga ko‘ra",
+      "aniqlangan paytda",
+      "to’g’ri ko’rsatilgan javobni aniqlang."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Korxona xodimlari tomonidan bajariladigan maxsus tekshiruvlar nima deb ataladi?",
+    "options": [
+      "nazorat amallari",
+      "nazorat muhiti",
+      "ichki nazorat tizimi",
+      "korxonadagi buxgalterlik hisobi tizimi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditor qaytarib olinadigan chiqindilar qiymati va idish hamda o’rash materiallari qiymati ularni sotish,foydalanish yoki omborga kirim qilish mumkin bo’lgan narxda baholanib,mahsulot tannarxiga kiritiladigan moddiy resurslar xarajatlaridan … aniqlashi zarur.",
+    "options": [
+      "oshirib ko’rsatilganligini",
+      "chegirib tashlanmaganligini",
+      "to’g’ri javob yo’q",
+      "chegirib tashlanganligini"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Axloq kodeksi talablariga muvofiq ichki auditor qaysi talabni bajarishi shart?",
+    "options": [
+      "Jamiyat manfaatlarini inobatga olishi shart",
+      "Tekshirilayotgan xo’jalik yurituvchi sub’ektning manfaatini inobatga olishi shart",
+      "O’zining shaxsiy manfaatini inobatga olishi shart",
+      "Uchinchi shaxslarning manfaatini inoabtga olishi shart"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Ichki auditorga tekshirish uchun huquq beradigan hujjat?",
+    "options": [
+      "Malaka sertifikati",
+      "Guvohnoma",
+      "Diplom",
+      "Litsenziya"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Solishtirish usuli ?",
+    "options": [
+      "Korxonaning faoliyatiga to’liq baho berish uchun barcha operatsiyalar tasdiqlovchi nazoratidan o’tkaziladi.",
+      "Hodisalarning sodir bo’lishi, natijalari turli shart-sharoitlarni e’tiborga olgan holda o’rganiladi. Bunday usul ko’pincha “yashirin iqtisodiyot” natijalarini aniqlashda keng foydalaniladi.",
+      "Audit obyekti bo’lgan ma’lum ko’rsatkich omillar asosida o’rganiladi, mavjud ichki imkoniyatlar aniqlanadi.",
+      "Iqtisodiy hodisalar, ko’rsatkichlarni o’zaro va biznes-reja bilan solishtirish"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik dalillar qaysi standartda ko’riladi?",
+    "options": [
+      "Maxsus standart",
+      "Auditning ishchi standarti",
+      "Auditning umumiy standarti",
+      "Hisobot standarti"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Malaka imtihonidan o‘ta olmagan talabgor, malaka imtihonini qayta topshirish uchun malaka imtihonida ishtirok etgan sanadan e’tiboran qancha oydan so‘ng hujjatlarni taqdim etishga haqli?",
+    "options": [
+      "Kamida 2 oy",
+      "Kamida 1 oy",
+      "Kamida 3 oy",
+      "Kamida 1.5 oy"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tekshiruvlarini o’tkazish shakllari va uslublari kim tomonidan aniqlanadi?",
+    "options": [
+      "Soliq Qo’mitasi",
+      "Auditorlik tashkiloti",
+      "Moliya vazirligi",
+      "Auditorlar palatasi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "…………………..-auditorning malakasini tasdiqlaydigan va unga auditorlik tashkiloti tarkibida auditorlik xizmatlarini ko‘rsatish huquqini beradigan hujjatdir",
+    "options": [
+      "Xalqaro auditorlik sertifikari",
+      "Auditorning malaka sertifikati",
+      "Xalqaro buxgalterlik sertifikati",
+      "Auditorlik sertifikati"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Sanoat namunalari va kashfiyot huquqlarini sotib olish nimalar bilan tasdiqlanadi?",
+    "options": [
+      "televideniye ko’rsatuvlari",
+      "patentlar, guvohnomalar",
+      "to’g’ri javob yo’q",
+      "og’zaki topshiriqlar"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Moliyaviy hisobotni tayyorlash va taqdim etish bo’yicha mas’uliyat kimning zimmasida bo’ladi?",
+    "options": [
+      "mijoz korxona rahbariyatida",
+      "mijoz rahbariyati va auditor zimmasida",
+      "auditor zimmasida",
+      "yurist zimmasida"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Renking -bu?",
+    "options": [
+      "Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan xo’jalik yurituvchi subyektlar va auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish",
+      "Auditorlik tashkilotlarining faoliyatini tavsiflovchi muayyan ko‘rsatkichlar bo‘yicha guruhlarga ajratilgan auditorlik tashkilotlarining tartibga solingan ro‘yxatlarini shakllantirish",
+      "Auditorlik tashkilotining nomi va joylashgan eri",
+      "Auditorlar ishi sifatining ichki nazorati auditorlik tashkiloti tomonidan amalga oshiriladigan, uning auditorlari va xodimlari tomonidan ushbu Qonun talablariga rioya etilishini ta’minlovchi tartib-taomillarga asoslangan tashkiliy chora-tadbirlar tizimi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Ishlab chiqarishga xarajat qilinadigan moddiy boyliklarning haqiqiy tannarxini aniqlash chog’ida ishlab chiqarish zahiralarini baholashning ruxsat etilgan usullarini toping.",
+    "options": [
+      "Birinchi xarid qilingan tannarx bo’yicha (FIFO), Oxirgi xarid qilingan tannarx bo’yicha (LIFO)",
+      "to’g’ri javob yo’q",
+      "O’rtacha tannarxi bo’yicha (AVECO), Oxirgi xarid qilingan tannarx bo’yicha (LIFO)",
+      "O’rtacha tannarxi bo’yicha (AVECO), Birinchi xarid qilingan tannarx bo’yicha (FIFO)"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlar bilim darajasini doimiy ravishda mustahkamlab borishi zarurligi Axloq kodeksining qaysi tamoyilida belgilangan?",
+    "options": [
+      "professional kompetentlik",
+      "obyektivlik",
+      "mustaqillik",
+      "maxfiylik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Buxgalteriya hisobining umumiy prinsiplariga ko’ra har qanday nomoddiy aktiv kirimi … asosida rasmiylashtiriladi.",
+    "options": [
+      "to’g’ri javob yo’q",
+      "buxgalterning xohishi",
+      "tegishli dastlabki hujjatlar",
+      "rahbarning og’zaki ko‘rsatmasi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Korxonaga tegishli bo’lmagan, ammo uning ixtiyorida saqlanayotgan yoki ishlatilayotgan tovar-moddiy zahiralar shartnomalar shartlariga muvofiq, shartnomada ko’rsatilgan bahoda … aks ettiriladi.",
+    "options": [
+      "sho’ba korxona balansdan tashqari schyotlarida",
+      "sho’ba korxona balans schyotlarida",
+      "balansdan tashqari schyotlarda",
+      "balans schyotlarida"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Yuridik shaxs, uning mulkdori, ustav fondida (ustav kapitalida) nechi foiz miqdoridagi ulushga ega bo‘lgan ishtirokchilar va aksiyadorlar, shuningdek nazorat qiluvchi yoki huquqni muhofaza qiluvchi organlar tashabbus tarzidagi auditorlik tekshiruvining buyurtmachilari bo‘lishi mumkin?",
+    "options": [
+      "Kamida 51%",
+      "Kamida 3%",
+      "Kamida 5%",
+      "Kamida 15%"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik faoliyati sohasidagi asosiy prinsiplar nimalardan iboratdir?",
+    "options": [
+      "Mustaqillik, xolislik va halollikdan, kasbiy bilimga egalik hamda axborotning maxfiyligidan",
+      "Mustaqillik, halollik va muqobillik",
+      "Hamma javoblar to’g’ri",
+      "Mustaqillik, xolislik va halolik, uyg’unlik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlik tekshiruvi hajmining cheklanganligi deb nimaga aytiladi?",
+    "options": [
+      "Auditorlik tekshiruvida inventarizatsiyani o’tkazilmasligidir",
+      "Auditorlik tekshiruvining hajmi cheklanmagan",
+      "Bu xo’jalik yurituvchi sub’ekt vakillari yoki uchinchi shaxslarning, boshlab qo’yilgan auditorlik tekshiruvini, auditor auditorlik xulosasi tayyorlash uchun yetarli deb hisoblaydigan hajmda o’tkazishga to’sqinlik qilishga qaratilgan ochiqdan-ochiq ko’rsatadigan hatti-harakatlari yoki harakatsizligidir",
+      "Bu xo’jalik yurituvchi sub’ekt vakillari yoki uchinchi shaxslarning, boshlab qo’yilgan auditorlik tekshiruvini, auditor auditorlik xulosasi tayyorlash uchun sifatli o’tkazishga to’sqinlik qilishga qaratilgan ochiqdan-ochiq ko’rsatadigan hatti-harakatlari yoki harakatsizligidir"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Aktivlarni noqonuniy egallash holati nimaga misol bo’ladi?",
+    "options": [
+      "Anglashilmovchillikka",
+      "Xatoga",
+      "Firibgarlikka",
+      "Beparvolikka"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Quyidagilardan qaysi biri auditorlik tashkiloti ishi sifatining asosiy ko‘rsatkichlari trakibiga kirmaydi?",
+    "options": [
+      "xalqaro auditorlik tashkilotlariga yoki assotsiatsiyalariga a’zolik;",
+      "auditorlik tashkiloti ustav kapitalining yetarliligi",
+      "ichki nazoratning tizimi",
+      "auditorlarning har yilgi malaka oshirish kurslaridan o‘tish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Banklarning auditorlik tekshiruvi shtatida banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatiga ega bo‘lgan nechi nafar auditor mavjud bo‘lgan auditorlik tashkilotlari tomonidan o‘tkaziladi?",
+    "options": [
+      "Kamida 3 nafar",
+      "Kamida 4 nafar",
+      "Kamida 1 nafar",
+      "Kamida 2 nafar"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Bosh to’plamni har biri o’xshash xususiyatlarga ega bo’lgan namunaviy elementlar guruhini ifodalaydigan kichik to’plamlarga bo’lish jarayoni auditda nima deb ataladi?",
+    "options": [
+      "Inventarizatsiya",
+      "Ekstrapolyatsiya",
+      "Stratifikatsiya",
+      "Amortizatsiya"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Quyidagilardan qaysi biri auditorlik hisobotining tahliliy qismida bo’lmaydi?",
+    "options": [
+      "audit shartnomasi summasi",
+      "xarajatlarni bo’limlar o’rtasida to’g’ri taqsimlanishini amalga oshirish chog’ida qonunchilikka rioya qilinishini tekshirish natijalari",
+      "xom ashyo va tayyor mahsulotlarning saklanishini tekshirish natijalari",
+      "xo’jalik yurituvchi sub’ektda ichki nazoratning ahvolini tekshirish natijalari (batafsil bayoni)"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditor mijozga xizmat ko’rsatish davrida u bilan aloqaning davom etayotganligi yoki to’xtatilganidan qat’iy nazar, uning maxfiy axborotlarini sir saqlashi lozim. Ushbu jumla qaysi talabni ochib beradi?",
+    "options": [
+      "Auditorning mustaqilligi",
+      "Auditorning e’tiborliligi",
+      "Auditorning obyektivligi",
+      "Mijoz axborotining maxfiyligi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Asosiy vositalar auditida tanlashni amalga oshirishda olingan natijalarni butun tekshirilayotgan jamlanmaga tatbiq etish nima deb ataladi?",
+    "options": [
+      "ekstrapolyatsiyalash",
+      "dispersiyalash",
+      "difraktsiyalash",
+      "determinlash"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Muhimlik darajasi auditorlik tekshiruvining qaysi bosqichda belgilab olinadi?",
+    "options": [
+      "Rejalashtirish bosqichida",
+      "Tekshiruv o’tkazish chog’ida",
+      "Yakuniy bosqichida",
+      "Tugatish va qayta ko’rib chiqish bosqichida"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorning malaka sertifikati dastlabki nechi yillik muddatga beriladi, uning amal qilishi navbatdagi nechi yillik muddatga va keyinchalik nechi yillik davrga uzaytiriladi?",
+    "options": [
+      "5,15,muddatsiz",
+      "5,15,25",
+      "5,10,muddatsiz",
+      "5,10,15"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik tashkiloti auditorlik tanlashning barcha bosqichlarini va uning natijalari tahlilini qaysi hujjatda aks ettiradi?",
+    "options": [
+      "auditorlik hisobotida",
+      "auditorlik shartnomada",
+      "auditorning ishchi hujjatlarida",
+      "auditorlik xulosasida"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Majburiyatlar auditida kamchiliklar sabablarini surishtirish auditorlik dalillarini olishning qaysi turiga mansub?",
+    "options": [
+      "hisoblash",
+      "so’rov",
+      "analitik amallar",
+      "nazorat"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tashkiloti tomonidan auditorlik tekshiruvlar vaqtida to’plangan va auditorlik xulosasini asoslovchi axborot nima deyiladi?",
+    "options": [
+      "dalil",
+      "ishchi hujjatlar",
+      "ma’lumot",
+      "tahliliy amallar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlik tashkilotlariga qanday holatlarda auditorlik tekshiruvini o‘tkazish taqiqlanadi?",
+    "options": [
+      "Muassisi, ishtirokchisi, aksiyadori yoki rahbarlik vazifalarini yoxud buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshirayotgan shaxsi, audit qo‘mitasi a’zosi bir vaqtning o‘zida mazkur auditorlik tashkilotining xodimi bo‘lgan xo‘jalik yurituvchi subyektga nisbatan",
+      "Hech qanday holatda cheklov o’rnatilmagan",
+      "Auditorlik tashkilotining yoki auditorning manfaatdorligi moliyaviy hisobot va u bilan bog‘liq moliyaviy axborot to‘g‘risida fikr bildirishga ta’sir ko‘rsatishi mumkin bo‘lgan manfaatlar to‘qnashuvi yuzaga kelmagan taqdirda",
+      "Xodimlari muassisning, ishtirokchining yaqin qarindoshlari yoki rahbarlik vazifalarini yoxud buxgalteriya hisobi va moliyaviy boshqaruv vazifalarini amalga oshiruvchi shaxsning tekshirilayotgan xo‘jalik yurituvchi subyekt audit qo‘mitasi a’zosining yaqin qarindoshlari bo‘lmagan"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Tashkilotning haqiqiy moliyaviy holatini aniqlashga berilgan ta’rifni toping?",
+    "options": [
+      "bu tashkilotning bo‘lib o‘tgan hodisalardan yuzaga keladigan mavjud javobgarligi bo‘lib, uning so‘ndirilishi natijasida tashkilotdan o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi kutiladi",
+      "Balansni ko‘rish uchun tashkilot moliyaviy holatiga to‘g‘ri va adolatli nuqtai nazarni yoritib beradi. Kutilayotgan barcha zararlar va xarajatlar uchun mablag‘ ajratilishi zarur",
+      "noaniq bajarish muddatiga yoki noaniq qiymatga ega bo‘lgan majburiyat, o‘zida iqtisodiy nafni mujassamlashtirgan resurslarning chiqib ketishi mavjud bo‘ladi",
+      "baholangan majburiyatning qiymati javobgarlikni bajarish uchun talab etilishi kutilayotgan sarflarning joriy qiymatiga teng bo‘lishi lozim."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Moliyaviy hisobotdagi ataylab qilingan buzib ko‘rsatish, jumladan moliyaviy hisobot tuzishda ochib berilishi talab etiladigan ma’lumotlarni yoki qandaydir summalarni ataylab yashirish",
+    "options": [
+      "Firibgarlik",
+      "Xato",
+      "Noto’g’ri ko’rsatish",
+      "Tushrib qoldirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Ichki audit xizmati xarajatlarining yillik smetasi kim tomonidan tasdiqlanadi ?",
+    "options": [
+      "Ichki audit xizmati rahbari",
+      "Kuzatuv kengashi",
+      "Ta’sischilar umumiy yig‘ilishi",
+      "Direktorlar Kengashi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Mahsulotlarning ishlab chiqarish tannarxiga kiritilmaydigan xarajatlarni toping.",
+    "options": [
+      "boshqa bevosita va bilvosita xarajatlar,shu jumladan ishlab chiqarish xususiyatiga ega bo’lgan ustama xarajatlar",
+      "foizlar bo’yicha sarflar",
+      "bevosita va bilvosita moddiy xarajatlar",
+      "bevosita va bilvosita mehnat xarajatlari"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Moliyaviy hisobot auditi va muvofiqlik auditi o'rtasidagi farq nima",
+    "options": [
+      "moliyaviy hisobot auditi ichki nazoratning samaradorligiga, muvofiqlik auditi esa tashkilotning qonunlar va me'yoriy hujjatlarga muvofiqligiga e'tibor qaratiladi",
+      "Yozma va og‘zaki",
+      "Manbali olingan dalillar",
+      "Moliyaviy hisobot auditi moliyaviy hisobotlarning to'g'riligiga e'tiborni qaratadi, muvofiqlik auditi esa tashkilotning qonunlar va qoidalarga muvofiqligiga e'tibor qaratadi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik dalillari olinish manbasiga ko‘ra qaysi turlarga bo‘linadi.",
+    "options": [
+      "Yozma va og’zaki.",
+      "Ichki, tashqi va aralash dalillar",
+      "Tasdiqlovchi, hujjatlashtirilgan.",
+      "Manbali olingan dalillar."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tashkilotlari ish sifati ustidan tashqi nazoratni qaysi organ amalga oshiradi ?",
+    "options": [
+      "Barcha javoblar to’g’ri",
+      "O’zbekiston Respublikasi adliya vazirligi",
+      "Audit qo’mitasi",
+      "O‘zbekiston Respublikasi Iqtisodiyot va moliya vazirligi va auditorlarning respublika jamoat birlashmalari bilan birgalikda"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik kompaniyasi tomonidan mijoz korxonaga jo’natiladigan rasmiy taklif nima deyiladi?",
+    "options": [
+      "Shartnoma",
+      "Oferta",
+      "Rezolyutsiya",
+      "Bitim"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Aniqlanmaslik riskiga ta’sir etuvchi risklar to‘g‘ri ko‘rsatilgan javobni aniqlang?",
+    "options": [
+      "Aniqlanmaslik riski va biznes risk.",
+      "Ajratib boʼlmaslik riski va nazorat vositalari riski.",
+      "Tanlash bilan bog‘liq va tanlash bilan bog‘liq bo‘lmagan risklar",
+      "Ajratib boʼlmaslik riski va aniqlanmaslik riski"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Majburiyat summalarining hujjat bilan tasdiqlanmaganlari shubhali qarzdorliklar qatoriga qo’shiladi. Bunday qarzlarning haqqoniyligi hisob-kitoblarni … yo’li bilan tasdiqlanadi.",
+    "options": [
+      "inventarizatsiya qilish (solishtirish dalolatnomasi tuzish)",
+      "eng yuqori (TOP) 3ta summani tekshirish",
+      "eng yuqori (TOP) 10ta summani tekshirish",
+      "chamalab tekshirish"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditini rejalashtirishning asosiy qoidalarini ko’rsating?",
+    "options": [
+      "Aniqlilik, uzluksizlik, maqbullik",
+      "Komplekslilik, uzluksizlik, maqbullik",
+      "Komplekslilik, aniqlik, maqbullik",
+      "To’liqlik, uzluksizlik, maqbullik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlar va auditorlik tashkiloti xodimlari auditorlik xizmatlari ko‘rsatish jarayonida o‘zlariga ma’lum bo‘lib qolgan ma’lumotlarni o‘ziga auditorlik xizmatlari ko‘rsatilgan shaxslarning yozma roziligisiz oshkor etmasligi",
+    "options": [
+      "Axborotning maxfiyligi prinsipi",
+      "Xolislik prinsipi",
+      "Musatqillik  prinsipi",
+      "Professional kompitentlik prinsipi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Audit standartlari -?",
+    "options": [
+      "Bu faqat yordamchi auditorlar rioya qilishi lozim bo’lgan yagona asos tamoyillardir",
+      "Bu faqat yordamchi auditorlar rioya qilishi lozim bo’lgan asos tamoyillardir",
+      "Bunday hujjat mavjud emas",
+      "Bu o’zining professional faoliyati davomida hamma auditorlar rioya qilishi lozim bo’lgan yagona asos tamoyillardir"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlar auditorlik amallarini bajarish chog’ida quyidagilardan qaysi birini bajaradi?",
+    "options": [
+      "dalillovchi ma’lumotlarni to’playdi",
+      "hamma javoblar to’g’ri",
+      "mijoz korxonani inventarizatsiya qiladi",
+      "uchinchi shaxsning og’zaki bildirishlarini yig’adi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tekshiruvi natijasida etkazilgan zararlarni undirish bo’yicha daromadlar moliyaviy daromadlar tarkibiga qo’shilganligi aniqlandi. Qonunchilikka binoan bu turdagi daromad qaysi qatorga qo’shilishi kerak?",
+    "options": [
+      "asosiy ishlab chiqarish faoliyatidan olinadigan boshqa daromadlar",
+      "mahsulot sotishdan olingan sof tushum",
+      "favqulodda daromadlar",
+      "moliyaviy faoliyatdan olinadigan daromadlar"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "500-son AXSga muvofiq audit amallarining nechta asosiy turi mavjud ?",
+    "options": [
+      "7 ta",
+      "8 ta",
+      "6 ta",
+      "5 ta"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Moliyaviy hisobot auditining maqsadi va uni tartibga soluvchi asosiy tamoyillar qaysi standartga tegishli?",
+    "options": [
+      "Hisobot standari",
+      "Auditning umumiy standarti",
+      "Auditning ishchi standarti",
+      "Maxsus standart"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "O‘zbekiston Respublikasi Markaziy bankining auditorlik faoliyati sohasidagi vakolatlariga nimalar kiradi?",
+    "options": [
+      "Banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatini berish tartibini belgilaydi va uni beradi",
+      "Banklarni auditorlik tekshiruvidan o‘tkazishning o‘ziga xos xususiyatlarini belgilaydi",
+      "hamma javoblar to’g’ri",
+      "Banklarning auditorlik tekshiruvlarini o‘tkazish huquqi uchun auditorning malaka sertifikatiga ega bo‘lgan Auditorlarning reyestrini yuritadi va uni o‘z rasmiy veb-saytiga joylashtiradi"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Tahliliy amallar nima?",
+    "options": [
+      "Bu mijoz korxonani inventarizatsiya qilish.",
+      "Bu mijoz korxonaning arifmetik hisob-kitoblarini tekshirish.",
+      "Bu auditor tomonidan olingan ma’lumotlarni baholash, g‘ayrioddiy va buxgalteriya hisobida noto‘g‘ri aks ettirilgan xo‘jalik faoliyati faktlarini aniqlash.",
+      "Bu sintetik va analitik hisob registrlarida dastlabki hujjatlar ma’lumotlarni aks ettirish."
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Korporativ boshqaruvda tashqi auditorlarning mustaqilligi va obyektivligini qaysi qo’mita nazorat va tahlil qiladi?",
+    "options": [
+      "Xodimlarni boshqarish qo’mitasi",
+      "Audit qo’mitasi",
+      "Rag’batlantirish bo’yicha qo’mita",
+      "Risklarni boshqarish qo’mitasi"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Majburiy auditorlik tekshiruvining o’tkazish muddati qanday?",
+    "options": [
+      "hisobot yilidan keyingi yilning 1 martigacha",
+      "hisobot yilidan keyingi yilning 1 fevraligacha",
+      "hisobot yilidan keyingi yilning 1 apreligacha",
+      "hisobot yilidan keyingi yilning 15 iyuniga qadar"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Soliqqa tortish maqsadida amortizatsiya ajratmalari hisoblash qaysi yuridik hujjatga muvofiq asosiy vosita obyektlarining dastlabki qiymatiga nisbatan amalga oshirilishi ham mumkin?",
+    "options": [
+      "O’zbekiston Respublikasi Soliq Kodeksi;",
+      "O`zbekiston Respublikasi «Auditorlik faoliyati to`g`risida» gi qonuni;",
+      "O`zbekiston Respublikasi Fuqarolik Kodeksi;",
+      "O`zbekiston Respublikasi «Buxgalteriya hisobi to`g`risida» gi qonuni;"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorlik tashkiloti o‘zi uchun asosiy ish joyi bo‘lgan auditorlarning eng kam soni nechi nafar auditordan iborat bo‘lishi kerak?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Ekspert ishlari natijalari to’g’risidagi xulosaning mazmuni va shakli bu -",
+    "options": [
+      "auditorlar yig’ilishida belgilanadi",
+      "korxona hisob siyosatida ko’zda tutiladi",
+      "auditorlik tashkiloti bilan korxona o’rtasida tuzilgan shartnomada",
+      "ekspert xizmat ko’rsatish shartnomasida kursatiladi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditda xolislik tamoyilining mazmunini aniqlang?",
+    "options": [
+      "Boshqa omillar ta’siridan foydalanish",
+      "Professional xizmatlarni ko’rsatishda qo’shimcha tekshiruv",
+      "Auditorning manfaatsizligi va beg’arazligi",
+      "Tarafkashlik qilish"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Moliyaviy hisobot auditining maqsadiga eng to’g’ri berilgan ta’rifni toping",
+    "options": [
+      "Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo’yicha tayyorlanganligi va taqdim etilishi moliyaviy hisobotning xalqaro standart (MHXS) talablari asosida tayyorlashdir",
+      "Moliyaviy hisobotga nisbatan ishonchni oshirganligi bilan bir qatorda, foydalanuvchi ushbu xulosani subyekt kelajakda barqaror faoliyat ko’rsatish uchun ishonch, hamda subyekt rahbariyati tomonidan mukammal va samarali ish yuritish kafolati deb hisoblaydi.",
+      "Moliyaviy hisobotni taqdim etishga oid belgilangan kontseptual asosga muvofiq tayyorlanganligini bildirish uchun auditor xulosasini shakllantirish",
+      "Auditorga moliyaviy hisobot barcha ahamiyatli jabhalar bo’yicha moliyaviy hisobotni taqdim etishga oid belgilangan konseptual asosga muvofiq tayyorlanganligi haqida o’z fikrini bildirish uchun imkoniyat yaratishdir."
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Rahbariyat va xodimlar malakaviy darajalarining pastligi qaysi riskka ta’sir ko‘rsatuvchi omil hisoblanadi?",
+    "options": [
+      "Nazorat riski",
+      "Aniqlanmaslik riski",
+      "Ichki xo‘jalik riski",
+      "Firibgarlik riski"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Auditorlik tashkiloti ishi sifatining tashqi nazoratini o‘tkazish muddati …….",
+    "options": [
+      "O‘n ish kunidan oshmasligi kerak",
+      "Besh ish kunidan oshmasligi kerak",
+      "O‘n besh kundan oshmasligi kerak",
+      "O‘n kunidan oshmasligi kerak"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Ushbu tushuncha aksiyalarni nominal qiymatidan baland narxlarda dastlabki sotishdan olinadigan emissiya daromadini, shuningdek ekvivalenti chet el valyutasida ifodalangan ustav fondini (ustav kapitalini) shakllantirish jarayonida yuzaga keladigan kurs farqini aks ettiradi?",
+    "options": [
+      "zaxira kapitali",
+      "qo‘shilgan kapital",
+      "ustav kapitali",
+      "taqsimlanmagan foyda"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditor professional xizmat ko’rsatib bo’lganidan so’ng mijozning maxfiy axborotini o’zining foydasi, 3-shaxsning foydasi yoki mijozga zarar etkazish maqsadida oshkor etmasligi lozim. Ushbu qaysi talabni xarakterlaydi?",
+    "options": [
+      "Mijoz axborotining maxfiyligi",
+      "Auditorning kasbiy mahorati",
+      "Auditorning mustaqilligi",
+      "Auditorning e’tiborliligi"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Auditorning malaka sertifikatining amal qilish muddati qanday holatlarda malaka imtihoni topshirilmagan holda uzaytiriladi.?",
+    "options": [
+      "Auditorda kamida 12 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda",
+      "Auditorda kamida 15 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda",
+      "Auditorda kamida 5 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda",
+      "Auditorda kamida 10 yillik uzluksiz auditorlik ish staji mavjud bo‘lganda"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik xulosasiga qaysi qatorda to’liqroq va aniqroq javob berilgan?",
+    "options": [
+      "Buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to’g’risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo’lgan hujjat",
+      "Moliyaviy hisobotning to’g’riligi to’g’risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo’lgan hujjat",
+      "Moliyaviy hisobotning to’g’riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to’g’risida auditorlik tashkilotining fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ektga taqdim etilgan hujjat",
+      "Moliyaviy hisobotning to’g’riligi va buxgalteriya hisobi yuritish tartibining qonun hujjatlarida belgilangan talablarga muvofiqligi to’g’risida auditorlik tashkilotining maxfiy fikri yozma shaklda ifodalangan, xo’jalik yurituvchi sub’ekt moliyaviy hisobotidan foydalanuvchilar uchun ochiq bo’lgan hujjat"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Quyidagilardan qaysinisi auditorlik dalillarning eng ishonchlisi hisoblanadi?",
+    "options": [
+      "Uchinchi shaxsning og‘zaki bildirishlari.",
+      "Auditorning bevosita kuzatish va moliya xo‘jalik muomalalarini o‘rganishi natijasida olingan dalillar.",
+      "Mijoz korxonani inventarizatsiya qilishdan olingan ma’lumotlar.",
+      "Uchinchi shaxsning dastlabki hujjatlari."
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Audit o’tkazishning muddatiga bog’liq ravishda auditorlik tekshiruvi qanday turlarga bo’linadi?",
+    "options": [
+      "Dastlabki, joriy, yakuniy auditorlik tekshiruvi",
+      "hujjatli va haqiqiy",
+      "joriy va yakuniy",
+      "kunlik, oylik, yarim yillik va yillik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Buzib ko‘rsatishlar yuzaga kelishi mumkin",
+    "options": [
+      "Boshlang’ich hujjatlarni tayyorlash natijasida",
+      "Buxgalter tomonidan moliyaviy hisobotni tuzish natijasida",
+      "Moliyaviy hisobotlarni tayyorlash uchun asos bo‘lgan ma’lumotlarni yig‘ish yoki ularga ishlov berishdagi xatoliklar natijasida",
+      "Hisob registrlarini tayyorlash natijasida"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Ichki audit xizmati kimning qaroriga asosan tashkil etiladi",
+    "options": [
+      "Direktor",
+      "Taftish komissiyasi",
+      "Aktsiyadorlar umumiy yig’ilishi",
+      "Kuzatuv kengashi"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditor auditni rejalashtirish davrida ajratib bo’lmaydigan tavakkalchiligini 70%, ichki nazorat tavakkalchiligini 40%, aniqlanmaslik tavakkalchiligini 12% qilib belgiladi. Shunda auditorlik tavakkalchiligi necha foizga teng bo’ladi?",
+    "options": [
+      "0.0336",
+      "0.0346",
+      "0.0215",
+      "0.0316"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Quyidagilardan qaysi biri auditorlik dalillarini to’plash usuli hisoblanmaydi?",
+    "options": [
+      "so’rov",
+      "kuzatish",
+      "qayta hisoblash",
+      "baholash"
+    ],
+    "correct_option_index": 3
+  },
+  {
+    "question": "Auditorlik xulosasining shakli va mazmuni nima asosida belgilanadi",
+    "options": [
+      "auditorlik faoliyati standartlari",
+      "to’gri javob ko’rsatilmagan",
+      "hujjatlar asosida",
+      "tekshirilayotgan hujjatlar va dalillar asosida"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Oldingi shakllangan tajriba, e’lon qilingan siyosat yoki yetarlicha aniq bo‘lgan joriy bayonot asosida, tashkilot boshqa tomonlarga ma’lum javobgarliklarni o‘z zimmasiga olishini ko‘rsatganligi nima deb xarakterlanadi?",
+    "options": [
+      "shartli aktiv",
+      "Konstruktiv javobgarlik",
+      "Yuridik javobgarlik",
+      "javobgarlik"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Muayyan auditorlik tekshiruvida harakatlarni yetarli rejalashtirish toʼgʼrisida asoslantirilgan qarorlar qabul qilish tegishli malaka, bilim va tajribani qoʼllash.................................asosida amalga oshiriladi",
+    "options": [
+      "Maxfiylik",
+      "to’gri javob ko’rsatilmagan",
+      "Professional mulohaza",
+      "Kasbiy kompitentlik"
+    ],
+    "correct_option_index": 2
+  },
+  {
+    "question": "Kasbiy layoqatlilik darajasiga erishish va kasbiy layoqatlilikni tegishli darajada saqlab turish. Ushbu fikr nimaga urg’u beradi?",
+    "options": [
+      "Etik normalarga",
+      "Kasbiy mahoratga",
+      "Auditorning mustaqilligiga",
+      "Auditorning xizmatiga"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Auditorlik tashkilotlari qanday turdosh xizmatlarni ko‘rsatishi mumkin?",
+    "options": [
+      "Buxgalteriya hisobi, audit va moliyaviy hisobot, soliq solish, moliya-xo‘jalik faoliyatini hamda moliyaviy rejalashtirishni tahlil qilishga doir seminarlar, konferensiyalar o‘tkazish",
+      "hamma javoblar to’g’ri",
+      "Moliya-xo‘jalik faoliyatini tahlil qilish va moliyaviy rejalashtirish, shu jumladan biznes-rejalar tayyorlash, iqtisodiy, moliyaviy maslahat va boshqaruvga oid maslahat berish",
+      "Buxgalteriya hisobini yo‘lga qo‘yish, qayta tiklash, yuritish va moliyaviy hisobot tuzish, shu jumladan moliyaviy hisobotning xalqaro standartlari bo‘yicha moliyaviy hisobot tuzish"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "Quyidagi yuridik sahxslarning qaysi biri har yili majburiy auditorlik tekshiruvidan o‘tmaydi?",
+    "options": [
+      "Investitsiya fondlari",
+      "Maktabgacha ta’lim muassasalari",
+      "Davlat unitar korxonalari",
+      "Aksiyadorlik jamiyatlari"
+    ],
+    "correct_option_index": 1
+  },
+  {
+    "question": "500-599 raqamli audit standartlari qanday nomlanadi?",
+    "options": [
+      "Auditorlik dalillar",
+      "Auditni rejalashtirish",
+      "Boshqa shaxslar xizmatlaridan foydalanish",
+      "Auditda muhimlik"
+    ],
+    "correct_option_index": 0
+  },
+  {
+    "question": "Korxona iqtisodiga ta’sir qiladigan ichki omillarga quyidagilardan qaysi biri kiradi?",
+    "options": [
+      "tarmoq holati",
+      "mamlakatdagi mavjud inflyatsion holat",
+      "korxonaning uchinchi shaxslar bilan o’zaro munosabatlari",
+      "mamlakat soliq siyosati"
+    ],
+    "correct_option_index": 2
+  }
+]
